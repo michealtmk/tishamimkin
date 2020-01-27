@@ -1,0 +1,9 @@
+C:\Users\Kobzev_MP\Desktop\chat\chat\bin\Debug\chat.exe.config
+C:\Users\Kobzev_MP\Desktop\chat\chat\bin\Debug\chat.exe
+C:\Users\Kobzev_MP\Desktop\chat\chat\bin\Debug\chat.pdb
+C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.Form1.resources
+C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.exe
+C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.pdb
