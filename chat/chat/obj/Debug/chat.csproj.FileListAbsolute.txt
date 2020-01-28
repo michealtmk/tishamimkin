@@ -7,3 +7,6 @@ C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.Properties.Resources.resourc
 C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
 C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.exe
 C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.pdb
+C:\Users\kas911\Documents\GitHub\tishamimkin\chat\chat\bin\Debug\chat.exe.config
+C:\Users\kas911\Documents\GitHub\tishamimkin\chat\chat\obj\Debug\chat.exe
+C:\Users\kas911\Documents\GitHub\tishamimkin\chat\chat\obj\Debug\chat.pdb
