@@ -105,7 +105,7 @@ namespace chat
                 /*string message = String.Format("{0}: {1}", userName, messageTextBox.Text);
                 byte[] data = Encoding.Unicode.GetBytes(message);
                 client.Send(data, data.Length, HOST, REMOTEPORT);
-                messageTextBox.Clear();//тут
+                messageTextBox.Clear();*/
                 string message = String.Format("{0}: {1}", userName, messageTextBox.Text);
                 byte[] data = Encoding.Unicode.GetBytes(message);
                 client.Send(data, data.Length, HOST, REMOTEPORT);
@@ -119,7 +119,7 @@ namespace chat
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
-            }*/
+            }
         }
         // обработчик нажатия кнопки logoutButton
         private void logoutButton_Click(object sender, EventArgs e)
