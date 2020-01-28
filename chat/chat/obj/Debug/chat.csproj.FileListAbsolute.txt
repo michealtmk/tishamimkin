@@ -10,3 +10,10 @@ C:\Users\Kobzev_MP\Desktop\chat\chat\obj\Debug\chat.pdb
 C:\Users\kas911\Documents\GitHub\tishamimkin\chat\chat\bin\Debug\chat.exe.config
 C:\Users\kas911\Documents\GitHub\tishamimkin\chat\chat\obj\Debug\chat.exe
 C:\Users\kas911\Documents\GitHub\tishamimkin\chat\chat\obj\Debug\chat.pdb
+C:\Новая папка\Github\tishamimkin\chat\chat\bin\Debug\chat.exe.config
+C:\Новая папка\Github\tishamimkin\chat\chat\obj\Debug\chat.exe
+C:\Новая папка\Github\tishamimkin\chat\chat\obj\Debug\chat.pdb
+C:\Новая папка\Github\tishamimkin\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+C:\Новая папка\Github\tishamimkin\chat\chat\obj\Debug\chat.Form1.resources
+C:\Новая папка\Github\tishamimkin\chat\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Новая папка\Github\tishamimkin\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
